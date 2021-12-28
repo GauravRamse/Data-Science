@@ -1,1 +1,7 @@
 
+We have two file in this folder
+1) Recommender_System.ipyb    -- You will find code to generate model mentioned below
+2) Final_recommendation_array -- This file is our model
+3) Dataset
+
+Note-  I have not any external liabrary than standard one so you can replicate result.
