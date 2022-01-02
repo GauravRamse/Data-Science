@@ -1,7 +1,6 @@
 # Customising your models with TensorFlow 2
 ### In this repository you will get all nescessery information required for creating Deep Learning Model.
 
-configuring Git
 
 ### Week 1
 1. Keras Functional API.
