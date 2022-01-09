@@ -15,4 +15,5 @@ Programming assignment -  Where we will see how we can play around with freezing
 
 ### Week 3
 1. Sequence Modelling
-2. Tokenize Data
+2. Tokenize Data  
+3. Embedding Layer
